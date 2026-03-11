@@ -1,0 +1,9 @@
+faiss-cpu
+sentence-transformers
+beautifulsoup4
+pandas
+numpy
+python-dotenv
+google-genai
+kagglehub
+pyarrow
