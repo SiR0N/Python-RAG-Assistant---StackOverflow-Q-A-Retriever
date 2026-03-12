@@ -43,7 +43,7 @@ It loads real StackOverflow questions and answers, cleans and filters them, embe
 ```text
 Python-RAG-Assistant---StackOverflow-Q-A-Retriever
 ├── README.md
-├── python-RAG.ipynb
+├── Python_RAG_Assistant.ipynb
 ├── requirements.txt
 ```
 
